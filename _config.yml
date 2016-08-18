@@ -1,28 +1,16 @@
-title: Bjørn Helge Lervåg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.8775650640018284
 color:
-  saturation: 0.1931545820552856
-  brandStrength: 0.1845878
-  lightness: 0.03284820774570107
+  brandStrength: 0.5219028191640973
+  lightness: 0.032848207745701075
+  saturation: 0.19315458205528557
+  rhythmicContrast: 0.4269560610409826
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 0.4269560610409826
-typography_spectrum: 0.9982079
-description: ''
-layout_spectrum: 0.1863799
+layout_spectrum: 0.1905618889722973
 name: Bjørn Helge Lervåg
+title: Bjørn Helge Lervåg
+description: ''
