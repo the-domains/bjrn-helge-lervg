@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bjørn Helge Lervåg]]></title>
+        <description><![CDATA[Bjørn Helge Lervåg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 21:29:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Myld]]></title>
+            <description><![CDATA[<article><h1>Myld</h1><p>Myld new concept reconnect life with role based digital communication</p></article>]]></description>
+            <link>http://www.myld.no/</link>
+            <guid isPermaLink="false">56aa165d-1490-4476-86b8-222893a8aeec</guid>
+            <pubDate>Thu, 18 Aug 2016 21:29:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
